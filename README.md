@@ -6,3 +6,5 @@ Top 12 JavaScript Concepts to Know Before Learning React:
 ## 2. Functions and Arrow Functions in JavaScript
 ## 3. JavaScript Objects
 ## 4. JavaScript Destructuring
+## 5. Array Methods in JavaScript
+## 6. Rest and Spread Operator in JavaScript
